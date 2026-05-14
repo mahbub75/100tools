@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Discussions
+    url: https://github.com/100tools/100tools/discussions
+    about: Questions, ideas, and conversations that aren't bug reports or feature requests.
+  - name: 🔒 Security disclosures
+    url: https://github.com/100tools/100tools/blob/main/SECURITY.md
+    about: Please report security issues privately via email — see SECURITY.md.
+  - name: 🌐 100tools.site
+    url: https://100tools.site
+    about: The live product.
